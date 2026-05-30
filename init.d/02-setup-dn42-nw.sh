@@ -7,37 +7,44 @@ DN42_IP=172.16.143.29/32
 DN42_IP6=fdda:8ca4:1556:4172::1/64
 DN42_GW_IP6=fdda:8ca4:1556:4172::/64
 
+log() { echo "[dn42-nw] $*"; }
+
 # Strip prefix length for use as route nexthop
 DN42_GW_IP6_ADDR="${DN42_GW_IP6%/*}"
 
 # --- Get PID of router container ---
+log "Getting PID of container $ROUTER_CONTAINER"
 ROUTER_PID=$(docker inspect --format '{{.State.Pid}}' "$ROUTER_CONTAINER")
+log "  PID=$ROUTER_PID"
 
-# --- Create veth pair ---
-ip link add v-qb type veth peer name v-dn42
-
-# Move v-qb into the router container's network namespace
-ip link set v-qb netns "$ROUTER_PID"
-
-# Move v-dn42 into QB_NETNS
-ip link set v-dn42 netns "$QB_NETNS"
+# --- Create veth pair (one-liner with netns) ---
+log "Creating veth pair: v-qb (ns=$ROUTER_PID) <-> v-dn42 (ns=$QB_NETNS)"
+ip link add v-qb netns "$ROUTER_PID" type veth peer v-dn42 netns "$QB_NETNS"
 
 # --- Activate interfaces ---
+log "Activating v-qb in container $ROUTER_CONTAINER"
+nsenter -t "$ROUTER_PID" -n ip l set v-qb vrf vrf42
 nsenter -t "$ROUTER_PID" -n ip link set v-qb up
+
+log "Activating v-dn42 in $QB_NETNS"
 ip netns exec "$QB_NETNS" ip link set v-dn42 up
 
 # --- Assign addresses ---
-# v-qb (gateway side): IPv6 only
+log "Assigning $DN42_GW_IP6 to v-qb"
 nsenter -t "$ROUTER_PID" -n ip addr add "$DN42_GW_IP6" dev v-qb
 
-# v-dn42 (our side): IPv4 + IPv6
+log "Assigning $DN42_IP and $DN42_IP6 to v-dn42"
 ip netns exec "$QB_NETNS" ip addr add "$DN42_IP" dev v-dn42
 ip netns exec "$QB_NETNS" ip addr add "$DN42_IP6" dev v-dn42
 
 # --- Assign routes ---
-# IPv4 routes with IPv6 nexthop (Linux extended nexthop / RFC 5549)
+log "Adding route 172.20.0.0/14 via $DN42_GW_IP6_ADDR (extended nexthop)"
 ip netns exec "$QB_NETNS" ip route add 172.20.0.0/14 via "$DN42_GW_IP6_ADDR" dev v-dn42
+
+log "Adding route 10.127.0.0/16 via $DN42_GW_IP6_ADDR (extended nexthop)"
 ip netns exec "$QB_NETNS" ip route add 10.127.0.0/16 via "$DN42_GW_IP6_ADDR" dev v-dn42
 
-# IPv6 route
+log "Adding route fd00::/8 via $DN42_GW_IP6_ADDR"
 ip netns exec "$QB_NETNS" ip -6 route add fd00::/8 via "$DN42_GW_IP6_ADDR" dev v-dn42
+
+log "Done"

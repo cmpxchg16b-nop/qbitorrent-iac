@@ -10,6 +10,9 @@ ip -n qb a add 10.169.254.1/30 dev eth0
 ip -6 a add fd96:4158:7963::2/64 dev v-qb
 ip -n qb -6 a add fd96:4158:7963::1/64 dev eth0
 
+ip -n qb route add default via 10.169.254.2
+ip -n qb -6 route add default via fd96:4158:7963::2
+
 sysctl -w net.ipv4.ip_forward=1
 sysctl -w net.ipv6.conf.all.forwarding=1
 

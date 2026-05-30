@@ -8,6 +8,10 @@ set -euo pipefail
 
 log() { echo "[host-nw] $*"; }
 
+log "Deleting nftables tables (chains and rules are removed automatically)"
+nft delete table ip qb-nat 2>/dev/null || true
+nft delete table ip6 qb-nat6 2>/dev/null || true
+
 log "Destroying v-qb on host (eth0 in qb netns will be removed too)"
 ip link del v-qb
 

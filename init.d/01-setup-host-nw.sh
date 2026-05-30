@@ -21,7 +21,13 @@ nft add chain ip qb-nat postrouting '{ type nat hook postrouting priority srcnat
 nft add rule ip qb-nat postrouting ip saddr 10.169.254.0/30 oifname "v-qb" accept
 nft add rule ip qb-nat postrouting ip saddr 10.169.254.0/30 masquerade
 
+nft add chain ip qb-nat prerouting '{ type nat hook prerouting priority dstnat ; policy accept ; }'
+nft add rule ip qb-nat prerouting tcp dport 6881 dnat to 10.169.254.1:6881
+
 nft add table ip6 qb-nat6
 nft add chain ip6 qb-nat6 postrouting '{ type nat hook postrouting priority srcnat ; policy accept ; }'
 nft add rule ip6 qb-nat6 postrouting ip6 saddr fd96:4158:7963::/64 oifname "v-qb" accept
 nft add rule ip6 qb-nat6 postrouting ip6 saddr fd96:4158:7963::/64 masquerade
+
+nft add chain ip6 qb-nat6 prerouting '{ type nat hook prerouting priority dstnat ; policy accept ; }'
+nft add rule ip6 qb-nat6 prerouting tcp dport 6881 dnat to fd96:4158:7963::1:6881

@@ -12,6 +12,7 @@ services:
     volumes:
       - qb-appconfig-vol:/config
       - "./downloads:/downloads"
+      - "./resolv.conf:/etc/resolv.conf:ro"
     restart: unless-stopped
 volumes:
   qb-appconfig-vol:

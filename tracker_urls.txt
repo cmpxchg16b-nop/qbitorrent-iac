@@ -1,0 +1,2 @@
+http://[fdda:8ca4:1556:a008::1]:9000/announce
+http://172.20.143.48:9000/announce

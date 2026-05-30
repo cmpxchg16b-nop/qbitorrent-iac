@@ -11,6 +11,7 @@ log() { echo "[dn42-nw] $*"; }
 
 # Strip prefix length for use as route nexthop
 DN42_GW_IP6_ADDR="${DN42_GW_IP6%/*}"
+log "  DN42_GW_IP6_ADDR=$DN42_GW_IP6_ADDR"
 
 # --- Get PID of router container ---
 log "Getting PID of container $ROUTER_CONTAINER"
@@ -27,24 +28,24 @@ nsenter -t "$ROUTER_PID" -n ip l set v-qb vrf vrf42
 nsenter -t "$ROUTER_PID" -n ip link set v-qb up
 
 log "Activating v-dn42 in $QB_NETNS"
-ip netns exec "$QB_NETNS" ip link set v-dn42 up
+nsenter --net="$QB_NETNS" ip link set v-dn42 up
 
 # --- Assign addresses ---
 log "Assigning $DN42_GW_IP6 to v-qb"
 nsenter -t "$ROUTER_PID" -n ip addr add "$DN42_GW_IP6" dev v-qb
 
 log "Assigning $DN42_IP and $DN42_IP6 to v-dn42"
-ip netns exec "$QB_NETNS" ip addr add "$DN42_IP" dev v-dn42
-ip netns exec "$QB_NETNS" ip addr add "$DN42_IP6" dev v-dn42
+nsenter --net="$QB_NETNS" ip addr add "$DN42_IP" dev v-dn42
+nsenter --net="$QB_NETNS" ip addr add "$DN42_IP6" dev v-dn42
 
 # --- Assign routes ---
 log "Adding route 172.20.0.0/14 via $DN42_GW_IP6_ADDR (extended nexthop)"
-ip netns exec "$QB_NETNS" ip route add 172.20.0.0/14 via "$DN42_GW_IP6_ADDR" dev v-dn42
+nsenter --net="$QB_NETNS" ip route add 172.20.0.0/14 via "$DN42_GW_IP6_ADDR" dev v-dn42
 
 log "Adding route 10.127.0.0/16 via $DN42_GW_IP6_ADDR (extended nexthop)"
-ip netns exec "$QB_NETNS" ip route add 10.127.0.0/16 via "$DN42_GW_IP6_ADDR" dev v-dn42
+nsenter --net="$QB_NETNS" ip route add 10.127.0.0/16 via "$DN42_GW_IP6_ADDR" dev v-dn42
 
 log "Adding route fd00::/8 via $DN42_GW_IP6_ADDR"
-ip netns exec "$QB_NETNS" ip -6 route add fd00::/8 via "$DN42_GW_IP6_ADDR" dev v-dn42
+nsenter --net="$QB_NETNS" ip -6 route add fd00::/8 via "$DN42_GW_IP6_ADDR" dev v-dn42
 
 log "Done"

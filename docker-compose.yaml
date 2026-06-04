@@ -2,17 +2,17 @@ name: qb
 services:
   qbittorrent:
     image: lscr.io/linuxserver/qbittorrent:latest
+    pull_policy: always
     container_name: qb
     network_mode: "ns:/run/netns/qb"
     environment:
-      - PUID=1000
-      - PGID=1000
+      - PUID=0
+      - PGID=0
       - TZ=Etc/UTC
       - WEBUI_PORT=19080
     volumes:
-      - qb-appconfig-vol:/config
+      - "./qb-config:/config"
       - "./downloads:/downloads"
+      - "/root/seaweedfs-mount/downloads1:/downloads1"
       - "./resolv.conf:/etc/resolv.conf:ro"
     restart: unless-stopped
-volumes:
-  qb-appconfig-vol:

@@ -1,18 +1,19 @@
 name: qb
 services:
   qbittorrent:
-    image: lscr.io/linuxserver/qbittorrent:latest
+    image: qbittorrentofficial/qbittorrent-nox:latest
     pull_policy: always
     container_name: qb
     network_mode: "ns:/run/netns/qb"
     environment:
-      - PUID=0
-      - PGID=0
-      - TZ=Etc/UTC
-      - WEBUI_PORT=19080
+      - "QBT_LEGAL_NOTICE=confirm"
+    dns:
+      # this points to the stub resolver running in host netns.
+      # and it is capable of resolving both dn42 domain and clearnet domain.
+      - "fd96:4158:7963::2"
     volumes:
-      - "./qb-config:/config"
+      - "./qBittorrent:/config/qBittorrent/config"
       - "./downloads:/downloads"
       - "/root/seaweedfs-mount/downloads1:/downloads1"
-      - "./resolv.conf:/etc/resolv.conf:ro"
+      - "/root/wasabi-mount/qb-downloads:/downloads2"
     restart: unless-stopped

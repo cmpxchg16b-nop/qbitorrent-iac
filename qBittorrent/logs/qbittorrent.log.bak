@@ -1,0 +1,744 @@
+(N) 2026-06-04T22:26:21 - qBittorrent v5.2.1 started. Process ID: 146
+(N) 2026-06-04T22:26:21 - Using config directory: /config/qBittorrent
+(N) 2026-06-04T22:26:21 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2026-06-04T22:26:21 - Peer ID: "-qB5210-"
+(I) 2026-06-04T22:26:21 - HTTP User-Agent: "qBittorrent/5.2.1"
+(I) 2026-06-04T22:26:21 - Distributed Hash Table (DHT) support: ON
+(I) 2026-06-04T22:26:21 - Local Peer Discovery support: ON
+(I) 2026-06-04T22:26:21 - Peer Exchange (PeX) support: ON
+(I) 2026-06-04T22:26:21 - Anonymous mode: OFF
+(I) 2026-06-04T22:26:21 - Encryption support: ON
+(I) 2026-06-04T22:26:21 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
+(I) 2026-06-04T22:26:21 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
+(I) 2026-06-04T22:26:21 - Successfully listening on IP. IP: "10.169.254.1". Port: "TCP/6881"
+(I) 2026-06-04T22:26:21 - Successfully listening on IP. IP: "10.169.254.1". Port: "UTP/6881"
+(I) 2026-06-04T22:26:21 - Successfully listening on IP. IP: "172.20.143.48". Port: "TCP/6881"
+(I) 2026-06-04T22:26:21 - Successfully listening on IP. IP: "172.20.143.48". Port: "UTP/6881"
+(I) 2026-06-04T22:26:21 - Successfully listening on IP. IP: "::1". Port: "TCP/6881"
+(I) 2026-06-04T22:26:21 - Successfully listening on IP. IP: "::1". Port: "UTP/6881"
+(I) 2026-06-04T22:26:21 - Successfully listening on IP. IP: "fd96:4158:7963::1". Port: "TCP/6881"
+(I) 2026-06-04T22:26:21 - Successfully listening on IP. IP: "fd96:4158:7963::1". Port: "UTP/6881"
+(I) 2026-06-04T22:26:21 - Successfully listening on IP. IP: "fe80::c04e:62ff:fe18:b3f6%eth0". Port: "TCP/6881"
+(I) 2026-06-04T22:26:21 - Successfully listening on IP. IP: "fe80::c04e:62ff:fe18:b3f6%eth0". Port: "UTP/6881"
+(I) 2026-06-04T22:26:21 - Successfully listening on IP. IP: "fdda:8ca4:1556:a008::1". Port: "TCP/6881"
+(I) 2026-06-04T22:26:21 - Successfully listening on IP. IP: "fdda:8ca4:1556:a008::1". Port: "UTP/6881"
+(I) 2026-06-04T22:26:21 - Successfully listening on IP. IP: "fe80::e8e9:7bff:fed9:c6b8%v-dn42". Port: "TCP/6881"
+(I) 2026-06-04T22:26:21 - Successfully listening on IP. IP: "fe80::e8e9:7bff:fed9:c6b8%v-dn42". Port: "UTP/6881"
+(W) 2026-06-04T22:26:21 - Couldn't load IP geolocation database. Reason: No such file or directory
+(N) 2026-06-04T22:26:21 - Using built-in WebUI.
+(W) 2026-06-04T22:26:21 - Couldn't load WebUI translation for selected locale (C).
+(N) 2026-06-04T22:26:21 - WebUI: Now listening on IP: *, port: 19080
+(I) 2026-06-04T22:26:22 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon Jun 1 01:42:47 2026.
+(I) 2026-06-04T22:26:22 - Successfully updated IP geolocation database.
+(I) 2026-06-04T22:26:23 - Detected external IP. IP: "152.53.46.158"
+(I) 2026-06-04T22:26:23 - Detected external IP. IP: "2a0a:4cc0:0:2573:48bc:85ff:fe51:e967"
+(N) 2026-06-04T22:26:42 - WebAPI login success. IP: ::ffff:10.169.254.2
+(I) 2026-06-04T22:26:54 - Embedded Tracker: Now listening on IP: 0.0.0.0, port: 9000
+(N) 2026-06-04T22:26:54 - WebUI translation for selected locale (en) has been successfully loaded.
+(N) 2026-06-04T22:27:54 - WebAPI login success. IP: ::ffff:10.169.254.2
+(N) 2026-06-04T22:29:27 - Added new torrent. Torrent: "Cisco_Images"
+(N) 2026-06-04T22:32:09 - Torrent download finished. Torrent: "Cisco_Images"
+(N) 2026-06-04T22:34:14 - WebAPI login success. IP: ::ffff:10.169.254.2
+(N) 2026-06-04T22:34:58 - qBittorrent termination initiated
+(N) 2026-06-04T22:34:58 - Saving resume data completed.
+(N) 2026-06-04T22:35:00 - BitTorrent session successfully finished.
+(N) 2026-06-04T22:35:39 - qBittorrent v5.2.1 started. Process ID: 146
+(N) 2026-06-04T22:35:39 - Using config directory: /config/qBittorrent
+(N) 2026-06-04T22:35:40 - qBittorrent termination initiated
+(N) 2026-06-04T22:35:40 - qBittorrent is now ready to exit
+(N) 2026-06-04T22:35:41 - qBittorrent v5.2.1 started. Process ID: 162
+(N) 2026-06-04T22:35:41 - Using config directory: /config/qBittorrent
+(N) 2026-06-04T22:35:41 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2026-06-04T22:35:41 - Peer ID: "-qB5210-"
+(I) 2026-06-04T22:35:41 - HTTP User-Agent: "qBittorrent/5.2.1"
+(I) 2026-06-04T22:35:41 - Distributed Hash Table (DHT) support: ON
+(I) 2026-06-04T22:35:41 - Local Peer Discovery support: ON
+(I) 2026-06-04T22:35:41 - Peer Exchange (PeX) support: ON
+(I) 2026-06-04T22:35:41 - Anonymous mode: OFF
+(I) 2026-06-04T22:35:41 - Encryption support: ON
+(I) 2026-06-04T22:35:41 - Embedded Tracker: Now listening on IP: 0.0.0.0, port: 9000
+(I) 2026-06-04T22:35:41 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
+(I) 2026-06-04T22:35:41 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
+(I) 2026-06-04T22:35:41 - Successfully listening on IP. IP: "10.169.254.1". Port: "TCP/6881"
+(I) 2026-06-04T22:35:41 - Successfully listening on IP. IP: "10.169.254.1". Port: "UTP/6881"
+(I) 2026-06-04T22:35:41 - Successfully listening on IP. IP: "172.20.143.48". Port: "TCP/6881"
+(I) 2026-06-04T22:35:41 - Successfully listening on IP. IP: "172.20.143.48". Port: "UTP/6881"
+(I) 2026-06-04T22:35:41 - Successfully listening on IP. IP: "::1". Port: "TCP/6881"
+(I) 2026-06-04T22:35:41 - Successfully listening on IP. IP: "::1". Port: "UTP/6881"
+(I) 2026-06-04T22:35:41 - Successfully listening on IP. IP: "fd96:4158:7963::1". Port: "TCP/6881"
+(I) 2026-06-04T22:35:41 - Successfully listening on IP. IP: "fd96:4158:7963::1". Port: "UTP/6881"
+(I) 2026-06-04T22:35:41 - Successfully listening on IP. IP: "fe80::c04e:62ff:fe18:b3f6%eth0". Port: "TCP/6881"
+(I) 2026-06-04T22:35:41 - Successfully listening on IP. IP: "fe80::c04e:62ff:fe18:b3f6%eth0". Port: "UTP/6881"
+(I) 2026-06-04T22:35:41 - Successfully listening on IP. IP: "fdda:8ca4:1556:a008::1". Port: "TCP/6881"
+(I) 2026-06-04T22:35:41 - Successfully listening on IP. IP: "fdda:8ca4:1556:a008::1". Port: "UTP/6881"
+(I) 2026-06-04T22:35:41 - Successfully listening on IP. IP: "fe80::e8e9:7bff:fed9:c6b8%v-dn42". Port: "TCP/6881"
+(I) 2026-06-04T22:35:41 - Successfully listening on IP. IP: "fe80::e8e9:7bff:fed9:c6b8%v-dn42". Port: "UTP/6881"
+(N) 2026-06-04T22:35:41 - Restored torrent. Torrent: "Cisco_Images"
+(I) 2026-06-04T22:35:41 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon Jun 1 01:42:47 2026.
+(N) 2026-06-04T22:35:41 - Using built-in WebUI.
+(N) 2026-06-04T22:35:41 - WebUI translation for selected locale (en) has been successfully loaded.
+(N) 2026-06-04T22:35:41 - WebUI: Now listening on IP: *, port: 19080
+(I) 2026-06-04T22:35:41 - Detected external IP. IP: "152.53.46.158"
+(I) 2026-06-04T22:35:41 - Detected external IP. IP: "2a0a:4cc0:0:2573:48bc:85ff:fe51:e967"
+(N) 2026-06-04T22:35:45 - WebAPI login success. IP: ::ffff:10.169.254.2
+(N) 2026-06-04T22:37:41 - qBittorrent termination initiated
+(N) 2026-06-04T22:37:41 - Saving resume data completed.
+(N) 2026-06-04T22:37:43 - BitTorrent session successfully finished.
+(N) 2026-06-04T22:37:54 - qBittorrent v5.2.1 started. Process ID: 147
+(N) 2026-06-04T22:37:54 - Using config directory: /config/qBittorrent
+(N) 2026-06-04T22:37:55 - qBittorrent termination initiated
+(N) 2026-06-04T22:37:55 - qBittorrent is now ready to exit
+(N) 2026-06-04T22:37:56 - qBittorrent v5.2.1 started. Process ID: 162
+(N) 2026-06-04T22:37:56 - Using config directory: /config/qBittorrent
+(N) 2026-06-04T22:37:56 - qBittorrent termination initiated
+(N) 2026-06-04T22:37:56 - qBittorrent is now ready to exit
+(N) 2026-06-04T22:37:57 - qBittorrent v5.2.1 started. Process ID: 170
+(N) 2026-06-04T22:37:57 - Using config directory: /config/qBittorrent
+(N) 2026-06-04T22:37:58 - qBittorrent termination initiated
+(N) 2026-06-04T22:37:58 - qBittorrent is now ready to exit
+(N) 2026-06-04T22:37:59 - qBittorrent v5.2.1 started. Process ID: 178
+(N) 2026-06-04T22:37:59 - Using config directory: /config/qBittorrent
+(N) 2026-06-04T22:38:00 - qBittorrent termination initiated
+(N) 2026-06-04T22:38:00 - qBittorrent is now ready to exit
+(N) 2026-06-04T22:38:01 - qBittorrent v5.2.1 started. Process ID: 186
+(N) 2026-06-04T22:38:01 - Using config directory: /config/qBittorrent
+(N) 2026-06-04T22:38:01 - qBittorrent termination initiated
+(N) 2026-06-04T22:38:01 - qBittorrent is now ready to exit
+(N) 2026-06-04T22:38:02 - qBittorrent v5.2.1 started. Process ID: 194
+(N) 2026-06-04T22:38:02 - Using config directory: /config/qBittorrent
+(N) 2026-06-04T22:38:03 - qBittorrent termination initiated
+(N) 2026-06-04T22:38:03 - qBittorrent is now ready to exit
+(N) 2026-06-04T22:38:04 - qBittorrent v5.2.1 started. Process ID: 202
+(N) 2026-06-04T22:38:04 - Using config directory: /config/qBittorrent
+(N) 2026-06-04T22:38:05 - qBittorrent termination initiated
+(N) 2026-06-04T22:38:05 - qBittorrent is now ready to exit
+(N) 2026-06-04T22:38:06 - qBittorrent v5.2.1 started. Process ID: 210
+(N) 2026-06-04T22:38:06 - Using config directory: /config/qBittorrent
+(N) 2026-06-04T22:38:06 - qBittorrent termination initiated
+(N) 2026-06-04T22:38:06 - qBittorrent is now ready to exit
+(N) 2026-06-04T22:38:07 - qBittorrent v5.2.1 started. Process ID: 218
+(N) 2026-06-04T22:38:07 - Using config directory: /config/qBittorrent
+(N) 2026-06-04T22:38:08 - qBittorrent termination initiated
+(N) 2026-06-04T22:38:08 - qBittorrent is now ready to exit
+(N) 2026-06-04T22:38:09 - qBittorrent v5.2.1 started. Process ID: 226
+(N) 2026-06-04T22:38:09 - Using config directory: /config/qBittorrent
+(N) 2026-06-04T22:38:10 - qBittorrent termination initiated
+(N) 2026-06-04T22:38:10 - qBittorrent is now ready to exit
+(N) 2026-06-04T22:38:11 - qBittorrent v5.2.1 started. Process ID: 234
+(N) 2026-06-04T22:38:11 - Using config directory: /config/qBittorrent
+(N) 2026-06-04T22:38:11 - qBittorrent termination initiated
+(N) 2026-06-04T22:38:11 - qBittorrent is now ready to exit
+(N) 2026-06-04T22:38:12 - qBittorrent v5.2.1 started. Process ID: 242
+(N) 2026-06-04T22:38:12 - Using config directory: /config/qBittorrent
+(N) 2026-06-04T22:38:12 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2026-06-04T22:38:12 - Peer ID: "-qB5210-"
+(I) 2026-06-04T22:38:12 - HTTP User-Agent: "qBittorrent/5.2.1"
+(I) 2026-06-04T22:38:12 - Distributed Hash Table (DHT) support: ON
+(I) 2026-06-04T22:38:12 - Local Peer Discovery support: ON
+(I) 2026-06-04T22:38:12 - Peer Exchange (PeX) support: ON
+(I) 2026-06-04T22:38:12 - Anonymous mode: OFF
+(I) 2026-06-04T22:38:12 - Encryption support: ON
+(I) 2026-06-04T22:38:12 - Embedded Tracker: Now listening on IP: 0.0.0.0, port: 9000
+(I) 2026-06-04T22:38:12 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
+(I) 2026-06-04T22:38:12 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
+(I) 2026-06-04T22:38:12 - Successfully listening on IP. IP: "10.169.254.1". Port: "TCP/6881"
+(I) 2026-06-04T22:38:12 - Successfully listening on IP. IP: "10.169.254.1". Port: "UTP/6881"
+(I) 2026-06-04T22:38:12 - Successfully listening on IP. IP: "172.20.143.48". Port: "TCP/6881"
+(I) 2026-06-04T22:38:12 - Successfully listening on IP. IP: "172.20.143.48". Port: "UTP/6881"
+(I) 2026-06-04T22:38:12 - Successfully listening on IP. IP: "::1". Port: "TCP/6881"
+(I) 2026-06-04T22:38:12 - Successfully listening on IP. IP: "::1". Port: "UTP/6881"
+(I) 2026-06-04T22:38:12 - Successfully listening on IP. IP: "fd96:4158:7963::1". Port: "TCP/6881"
+(I) 2026-06-04T22:38:12 - Successfully listening on IP. IP: "fd96:4158:7963::1". Port: "UTP/6881"
+(I) 2026-06-04T22:38:12 - Successfully listening on IP. IP: "fe80::c04e:62ff:fe18:b3f6%eth0". Port: "TCP/6881"
+(I) 2026-06-04T22:38:12 - Successfully listening on IP. IP: "fe80::c04e:62ff:fe18:b3f6%eth0". Port: "UTP/6881"
+(I) 2026-06-04T22:38:12 - Successfully listening on IP. IP: "fdda:8ca4:1556:a008::1". Port: "TCP/6881"
+(I) 2026-06-04T22:38:12 - Successfully listening on IP. IP: "fdda:8ca4:1556:a008::1". Port: "UTP/6881"
+(I) 2026-06-04T22:38:12 - Successfully listening on IP. IP: "fe80::e8e9:7bff:fed9:c6b8%v-dn42". Port: "TCP/6881"
+(I) 2026-06-04T22:38:12 - Successfully listening on IP. IP: "fe80::e8e9:7bff:fed9:c6b8%v-dn42". Port: "UTP/6881"
+(N) 2026-06-04T22:38:12 - Restored torrent. Torrent: "Cisco_Images"
+(I) 2026-06-04T22:38:12 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon Jun 1 01:42:47 2026.
+(N) 2026-06-04T22:38:12 - Using built-in WebUI.
+(N) 2026-06-04T22:38:12 - WebUI translation for selected locale (en) has been successfully loaded.
+(N) 2026-06-04T22:38:12 - WebUI: Now listening on IP: *, port: 19080
+(I) 2026-06-04T22:38:12 - Detected external IP. IP: "152.53.46.158"
+(I) 2026-06-04T22:38:12 - Detected external IP. IP: "2a0a:4cc0:0:2573:48bc:85ff:fe51:e967"
+(N) 2026-06-04T22:38:20 - WebAPI login success. IP: ::ffff:10.169.254.2
+(N) 2026-06-04T22:38:57 - Added new torrent. Torrent: "ios"
+(N) 2026-06-04T22:39:15 - Torrent download finished. Torrent: "ios"
+(N) 2026-06-04T22:39:30 - Torrent stopped. Torrent: "ios"
+(N) 2026-06-04T22:41:41 - WebUI Set location: moving "ios", from "/downloads/cisco-ios-full-collection" to "/downloads1/cisco-ios-full-collection"
+(N) 2026-06-04T22:41:41 - Enqueued torrent move. Torrent: "ios". Source: "/downloads/cisco-ios-full-collection". Destination: "/downloads1/cisco-ios-full-collection"
+(N) 2026-06-04T22:41:41 - Start moving torrent. Torrent: "ios". Destination: "/downloads1/cisco-ios-full-collection"
+(N) 2026-06-04T22:42:46 - Moved torrent successfully. Torrent: "ios". Destination: "/downloads1/cisco-ios-full-collection"
+(N) 2026-06-04T22:44:21 - Torrent resumed. Torrent: "ios"
+(N) 2026-06-04T22:58:55 - Detected an attempt to add a duplicate torrent. Existing torrent: "ios". Torrent infohash: d1f38f427098d93968bde99fba17c9a4d7fcc723. Result: Merging of trackers is disabled
+(N) 2026-06-04T23:00:23 - Torrent removed. Torrent: "ios"
+(N) 2026-06-04T23:01:57 - Added new torrent. Torrent: "test1"
+(C) 2026-06-04T23:01:57 - Couldn't save torrent metadata to '/config/qBittorrent/BT_backup/d1f38f427098d93968bde99fba17c9a4d7fcc723.torrent'. Error: No such file or directory.
+(W) 2026-06-04T23:01:57 - Failed to restore torrent. Files were probably moved or storage isn't accessible. Torrent: "test1". Reason: "ios fast resume rejected. file_stat(/downloads/test1/ios/asr1000/asr1000rpx86-universalk9.16.03.01a.SPA.bin): mismatching file size"
+(N) 2026-06-04T23:03:20 - Torrent download finished. Torrent: "test1"
+(N) 2026-06-04T23:03:40 - Torrent removed. Torrent: "test1"
+(N) 2026-06-04T23:03:40 - Torrent content removed. Torrent: "test1"
+(N) 2026-06-04T23:04:21 - Added new torrent. Torrent: "test2"
+(N) 2026-06-04T23:04:23 - Torrent download finished. Torrent: "test2"
+(N) 2026-06-04T23:06:25 - Torrent stopped. Torrent: "test2"
+(N) 2026-06-04T23:06:33 - Torrent removed. Torrent: "test2"
+(N) 2026-06-04T23:06:46 - Torrent content removed. Torrent: "test2"
+(I) 2026-06-04T23:09:02 - Found Python executable. Name: "python3". Version: "3.12.13"
+(N) 2026-06-04T23:09:48 - Added new torrent. Torrent: "cisco-full"
+(N) 2026-06-04T23:12:55 - Torrent stopped. Torrent: "cisco-full"
+(N) 2026-06-04T23:12:57 - Torrent resumed. Torrent: "cisco-full"
+(N) 2026-06-04T23:18:43 - Added tracker to torrent. Torrent: "cisco-full". Tracker: "udp://open.stealth.si:80/announce"
+(N) 2026-06-04T23:18:43 - Added tracker to torrent. Torrent: "cisco-full". Tracker: "udp://tracker.004430.xyz:1337/announce"
+(N) 2026-06-04T23:18:43 - Added tracker to torrent. Torrent: "cisco-full". Tracker: "udp://tracker.iperson.xyz:6969/announce"
+(N) 2026-06-04T23:18:43 - Added tracker to torrent. Torrent: "cisco-full". Tracker: "https://tracker.pmman.tech:443/announce"
+(N) 2026-06-04T23:18:43 - Added tracker to torrent. Torrent: "cisco-full". Tracker: "udp://tracker.publictracker.xyz:6969/announce"
+(N) 2026-06-04T23:18:43 - Added tracker to torrent. Torrent: "cisco-full". Tracker: "udp://vito-tracker.space:6969/announce"
+(N) 2026-06-04T23:18:43 - Added tracker to torrent. Torrent: "cisco-full". Tracker: "udp://tracker.qu.ax:6969/announce"
+(N) 2026-06-04T23:18:43 - Added tracker to torrent. Torrent: "cisco-full". Tracker: "udp://retracker01-msk-virt.corbina.net:80/announce"
+(N) 2026-06-04T23:18:43 - Added tracker to torrent. Torrent: "cisco-full". Tracker: "udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce"
+(N) 2026-06-04T23:18:43 - Added tracker to torrent. Torrent: "cisco-full". Tracker: "udp://zer0day.ch:1337/announce"
+(N) 2026-06-04T23:18:43 - Added tracker to torrent. Torrent: "cisco-full". Tracker: "udp://tracker.theoks.net:6969/announce"
+(N) 2026-06-04T23:18:43 - Added tracker to torrent. Torrent: "cisco-full". Tracker: "udp://6ahddutb1ucc3cp.ru:6969/announce"
+(N) 2026-06-04T23:18:43 - Added tracker to torrent. Torrent: "cisco-full". Tracker: "udp://tracker.opentrackr.org:1337/announce"
+(N) 2026-06-04T23:18:43 - Added tracker to torrent. Torrent: "cisco-full". Tracker: "udp://open.demonii.com:1337/announce"
+(N) 2026-06-04T23:18:43 - Added tracker to torrent. Torrent: "cisco-full". Tracker: "https://tracker.zhuqiy.com:443/announce"
+(N) 2026-06-04T23:18:43 - Added tracker to torrent. Torrent: "cisco-full". Tracker: "udp://tracker.auctor.tv:6969/announce"
+(N) 2026-06-04T23:18:43 - Added tracker to torrent. Torrent: "cisco-full". Tracker: "https://tracker.yemekyedim.com:443/announce"
+(N) 2026-06-04T23:18:43 - Added tracker to torrent. Torrent: "cisco-full". Tracker: "udp://tracker.torrent.eu.org:451/announce"
+(N) 2026-06-04T23:18:43 - Added tracker to torrent. Torrent: "cisco-full". Tracker: "udp://tracker-udp.gbitt.info:80/announce"
+(N) 2026-06-04T23:18:43 - Added tracker to torrent. Torrent: "cisco-full". Tracker: "udp://torrents.tmtime.dev:6969/announce"
+(N) 2026-06-04T23:21:27 - Added tracker to torrent. Torrent: "cisco-full". Tracker: "http://tracker.zhuqiy.com:80/announce"
+(N) 2026-06-04T23:21:27 - Added tracker to torrent. Torrent: "cisco-full". Tracker: "udp://tracker.wildkat.net:6969/announce"
+(N) 2026-06-04T23:21:27 - Added tracker to torrent. Torrent: "cisco-full". Tracker: "udp://tracker.t-1.org:6969/announce"
+(N) 2026-06-04T23:21:27 - Added tracker to torrent. Torrent: "cisco-full". Tracker: "https://tr.nyacat.pw:443/announce"
+(N) 2026-06-04T23:21:27 - Added tracker to torrent. Torrent: "cisco-full". Tracker: "udp://tr4ck3r.duckdns.org:6969/announce"
+(N) 2026-06-04T23:21:27 - Added tracker to torrent. Torrent: "cisco-full". Tracker: "udp://torrentclub.online:54123/announce"
+(N) 2026-06-04T23:21:27 - Added tracker to torrent. Torrent: "cisco-full". Tracker: "http://home.yxgz.club:6969/announce"
+(N) 2026-06-04T23:21:27 - Added tracker to torrent. Torrent: "cisco-full". Tracker: "udp://tracker.corpscorp.online:80/announce"
+(N) 2026-06-04T23:21:27 - Added tracker to torrent. Torrent: "cisco-full". Tracker: "http://tr.kxmp.cf:80/announce"
+(N) 2026-06-04T23:21:27 - Added tracker to torrent. Torrent: "cisco-full". Tracker: "http://tracker.23794.top:6969/announce"
+(N) 2026-06-04T23:21:27 - Added tracker to torrent. Torrent: "cisco-full". Tracker: "udp://tracker.playground.ru:6969/announce"
+(N) 2026-06-04T23:21:27 - Added tracker to torrent. Torrent: "cisco-full". Tracker: "udp://tracker.bluefrog.pw:2710/announce"
+(N) 2026-06-04T23:21:27 - Added tracker to torrent. Torrent: "cisco-full". Tracker: "udp://martin-gebhardt.eu:25/announce"
+(N) 2026-06-04T23:21:27 - Added tracker to torrent. Torrent: "cisco-full". Tracker: "http://t.overflow.biz:6969/announce"
+(N) 2026-06-04T23:21:27 - Added tracker to torrent. Torrent: "cisco-full". Tracker: "udp://tracker.1h.is:1337/announce"
+(N) 2026-06-04T23:21:27 - Added tracker to torrent. Torrent: "cisco-full". Tracker: "udp://evan.im:6969/announce"
+(N) 2026-06-04T23:21:27 - Added tracker to torrent. Torrent: "cisco-full". Tracker: "http://tracker.sbsub.com:2710/announce"
+(N) 2026-06-04T23:21:27 - Added tracker to torrent. Torrent: "cisco-full". Tracker: "http://tracker810.xyz:11450/announce"
+(N) 2026-06-04T23:21:27 - Added tracker to torrent. Torrent: "cisco-full". Tracker: "http://retracker.spark-rostov.ru:80/announce"
+(N) 2026-06-04T23:21:27 - Added tracker to torrent. Torrent: "cisco-full". Tracker: "http://tracker.moxing.party:6969/announce"
+(N) 2026-06-04T23:21:27 - Added tracker to torrent. Torrent: "cisco-full". Tracker: "https://tr.zukizuki.org:443/announce"
+(N) 2026-06-04T23:21:27 - Added tracker to torrent. Torrent: "cisco-full". Tracker: "udp://tracker.flatuslifir.is:6969/announce"
+(N) 2026-06-04T23:21:27 - Added tracker to torrent. Torrent: "cisco-full". Tracker: "udp://tracker.tryhackx.org:6969/announce"
+(N) 2026-06-04T23:21:27 - Added tracker to torrent. Torrent: "cisco-full". Tracker: "http://tracker.renfei.net:8080/announce"
+(N) 2026-06-04T23:21:27 - Added tracker to torrent. Torrent: "cisco-full". Tracker: "http://004430.xyz:80/announce"
+(N) 2026-06-04T23:21:27 - Added tracker to torrent. Torrent: "cisco-full". Tracker: "udp://tracker.nyaa.vc:6969/announce"
+(N) 2026-06-04T23:21:27 - Added tracker to torrent. Torrent: "cisco-full". Tracker: "udp://open.ftorrent.com:443/announce"
+(N) 2026-06-04T23:21:27 - Added tracker to torrent. Torrent: "cisco-full". Tracker: "http://seeders-paradise.org:80/announce"
+(N) 2026-06-04T23:21:27 - Added tracker to torrent. Torrent: "cisco-full". Tracker: "udp://rekcart.duckdns.org:15480/announce"
+(N) 2026-06-04T23:21:27 - Added tracker to torrent. Torrent: "cisco-full". Tracker: "http://jvavav.com:80/announce"
+(N) 2026-06-04T23:21:27 - Added tracker to torrent. Torrent: "cisco-full". Tracker: "http://tracker.xiaoduola.xyz:6969/announce"
+(N) 2026-06-04T23:21:27 - Added tracker to torrent. Torrent: "cisco-full". Tracker: "http://buny.uk:6969/announce"
+(N) 2026-06-04T23:21:27 - Added tracker to torrent. Torrent: "cisco-full". Tracker: "udp://tracker.ddunlimited.net:6969/announce"
+(N) 2026-06-04T23:21:27 - Added tracker to torrent. Torrent: "cisco-full". Tracker: "udp://admin.52ywp.com:6969/announce"
+(N) 2026-06-04T23:21:27 - Added tracker to torrent. Torrent: "cisco-full". Tracker: "http://tracker.tritan.gg:8080/announce"
+(N) 2026-06-04T23:21:27 - Added tracker to torrent. Torrent: "cisco-full". Tracker: "udp://tracker.bittor.pw:1337/announce"
+(N) 2026-06-04T23:21:27 - Added tracker to torrent. Torrent: "cisco-full". Tracker: "http://1337.abcvg.info:80/announce"
+(N) 2026-06-04T23:21:27 - Added tracker to torrent. Torrent: "cisco-full". Tracker: "udp://tracker.filemail.com:6969/announce"
+(N) 2026-06-04T23:21:27 - Added tracker to torrent. Torrent: "cisco-full". Tracker: "udp://ipv4announce.sktorrent.eu:6969/announce"
+(N) 2026-06-04T23:21:27 - Added tracker to torrent. Torrent: "cisco-full". Tracker: "udp://tracker.startwork.cv:1337/announce"
+(N) 2026-06-04T23:21:27 - Added tracker to torrent. Torrent: "cisco-full". Tracker: "http://tracker.bt4g.com:2095/announce"
+(N) 2026-06-04T23:21:27 - Added tracker to torrent. Torrent: "cisco-full". Tracker: "https://open.ftorrent.com:443/announce"
+(N) 2026-06-04T23:21:27 - Added tracker to torrent. Torrent: "cisco-full". Tracker: "https://tracker.nekomi.cn:443/announce"
+(N) 2026-06-04T23:21:27 - Added tracker to torrent. Torrent: "cisco-full". Tracker: "https://tracker.7471.top:443/announce"
+(N) 2026-06-04T23:21:27 - Added tracker to torrent. Torrent: "cisco-full". Tracker: "https://t.213891.xyz:443/announce"
+(N) 2026-06-04T23:21:27 - Added tracker to torrent. Torrent: "cisco-full". Tracker: "https://tracker.bt4g.com:443/announce"
+(N) 2026-06-04T23:21:27 - Added tracker to torrent. Torrent: "cisco-full". Tracker: "http://open.trackerlist.xyz:80/announce"
+(N) 2026-06-04T23:21:27 - Added tracker to torrent. Torrent: "cisco-full". Tracker: "udp://udp.tracker.projectk.org:23333/announce"
+(N) 2026-06-04T23:21:27 - Added tracker to torrent. Torrent: "cisco-full". Tracker: "udp://tracker.gmi.gd:6969/announce"
+(N) 2026-06-04T23:21:27 - Added tracker to torrent. Torrent: "cisco-full". Tracker: "https://pybittrack.retiolus.net:443/announce"
+(N) 2026-06-04T23:21:27 - Added tracker to torrent. Torrent: "cisco-full". Tracker: "http://tr.highstar.shop:80/announce"
+(N) 2026-06-04T23:21:27 - Added tracker to torrent. Torrent: "cisco-full". Tracker: "udp://seedpeer.net:6969/announce"
+(N) 2026-06-04T23:21:27 - Added tracker to torrent. Torrent: "cisco-full". Tracker: "http://tracker.waaa.moe:6969/announce"
+(N) 2026-06-04T23:21:27 - Added tracker to torrent. Torrent: "cisco-full". Tracker: "http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce"
+(N) 2026-06-04T23:21:27 - Added tracker to torrent. Torrent: "cisco-full". Tracker: "udp://tracker.dler.org:6969/announce"
+(N) 2026-06-04T23:21:27 - Added tracker to torrent. Torrent: "cisco-full". Tracker: "udp://tracker.hismz.cn:6969/announce"
+(N) 2026-06-04T23:21:27 - Added tracker to torrent. Torrent: "cisco-full". Tracker: "http://bt.poletracker.org:2710/announce"
+(N) 2026-06-04T23:21:27 - Added tracker to torrent. Torrent: "cisco-full". Tracker: "http://0d.kebhana.mx:443/announce"
+(N) 2026-06-04T23:21:27 - Added tracker to torrent. Torrent: "cisco-full". Tracker: "https://tracker.leechshield.link:443/announce"
+(N) 2026-06-04T23:21:27 - Added tracker to torrent. Torrent: "cisco-full". Tracker: "https://shahidrazi.online:443/announce"
+(N) 2026-06-04T23:21:27 - Added tracker to torrent. Torrent: "cisco-full". Tracker: "http://tracker.mywaifu.best:6969/announce"
+(N) 2026-06-04T23:21:27 - Added tracker to torrent. Torrent: "cisco-full". Tracker: "https://torrents.tmtime.dev:443/announce"
+(N) 2026-06-04T23:21:27 - Added tracker to torrent. Torrent: "cisco-full". Tracker: "udp://uabits.today:6990/announce"
+(N) 2026-06-04T23:21:27 - Added tracker to torrent. Torrent: "cisco-full". Tracker: "udp://ns575949.ip-51-222-82.net:6969/announce"
+(N) 2026-06-04T23:21:27 - Added tracker to torrent. Torrent: "cisco-full". Tracker: "http://0123456789nonexistent.com:80/announce"
+(N) 2026-06-04T23:21:27 - Added tracker to torrent. Torrent: "cisco-full". Tracker: "http://tracker.dhitechnical.com:6969/announce"
+(N) 2026-06-04T23:21:27 - Added tracker to torrent. Torrent: "cisco-full". Tracker: "http://tr.nyacat.pw:80/announce"
+(N) 2026-06-04T23:21:27 - Added tracker to torrent. Torrent: "cisco-full". Tracker: "http://tracker.opentrackr.org:1337/announce"
+(N) 2026-06-04T23:21:27 - Added tracker to torrent. Torrent: "cisco-full". Tracker: "udp://t.overflow.biz:6969/announce"
+(N) 2026-06-04T23:21:27 - Added tracker to torrent. Torrent: "cisco-full". Tracker: "http://tracker2.dler.org:80/announce"
+(N) 2026-06-04T23:21:27 - Added tracker to torrent. Torrent: "cisco-full". Tracker: "http://tracker.qu.ax:6969/announce"
+(N) 2026-06-04T23:21:27 - Added tracker to torrent. Torrent: "cisco-full". Tracker: "http://torrent.hificode.in:6969/announce"
+(N) 2026-06-04T23:21:27 - Added tracker to torrent. Torrent: "cisco-full". Tracker: "udp://tracker.opentorrent.top:6969/announce"
+(N) 2026-06-04T23:21:27 - Added tracker to torrent. Torrent: "cisco-full". Tracker: "http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce"
+(N) 2026-06-04T23:21:27 - Added tracker to torrent. Torrent: "cisco-full". Tracker: "http://tracker.privateseedbox.xyz:2710/announce"
+(N) 2026-06-04T23:21:27 - Added tracker to torrent. Torrent: "cisco-full". Tracker: "udp://tracker.plx.im:6969/announce"
+(N) 2026-06-04T23:21:27 - Added tracker to torrent. Torrent: "cisco-full". Tracker: "udp://tracker.fnix.net:6969/announce"
+(N) 2026-06-04T23:21:27 - Added tracker to torrent. Torrent: "cisco-full". Tracker: "udp://tracker.ducks.party:1984/announce"
+(N) 2026-06-04T23:21:27 - Added tracker to torrent. Torrent: "cisco-full". Tracker: "udp://leet-tracker.moe:1337/announce"
+(N) 2026-06-04T23:21:27 - Added tracker to torrent. Torrent: "cisco-full". Tracker: "http://tracker.dmcomic.org:2710/announce"
+(N) 2026-06-04T23:21:27 - Added tracker to torrent. Torrent: "cisco-full". Tracker: "http://bvarf.tracker.sh:2086/announce"
+(N) 2026-06-04T23:21:27 - Added tracker to torrent. Torrent: "cisco-full". Tracker: "udp://yuptracker-eu.gaijinent.com:27022/announce"
+(N) 2026-06-04T23:21:27 - Added tracker to torrent. Torrent: "cisco-full". Tracker: "http://tracker.dler.org:6969/announce"
+(N) 2026-06-04T23:21:27 - Added tracker to torrent. Torrent: "cisco-full". Tracker: "http://tracker.dler.com:6969/announce"
+(N) 2026-06-04T23:21:27 - Added tracker to torrent. Torrent: "cisco-full". Tracker: "http://shubt.net:2710/announce"
+(N) 2026-06-04T23:21:27 - Added tracker to torrent. Torrent: "cisco-full". Tracker: "http://share.hkg-fansub.info:80/announce.php"
+(N) 2026-06-04T23:28:43 - Added new torrent. Torrent: "debian-13.5.0-arm64-netinst.iso"
+(W) 2026-06-04T23:28:43 - Received error message from URL seed. Torrent: "debian-13.5.0-arm64-netinst.iso". URL: "https://cdimage.debian.org/cdimage/archive/13.5.0/arm64/iso-cd/debian-13.5.0-arm64-netinst.iso". Message: "404 Not Found"
+(N) 2026-06-04T23:29:12 - Torrent download finished. Torrent: "debian-13.5.0-arm64-netinst.iso"
+(N) 2026-06-04T23:30:50 - qBittorrent termination initiated
+(N) 2026-06-04T23:30:50 - Saving resume data completed.
+(N) 2026-06-04T23:32:10 - qBittorrent v5.2.1 started. Process ID: 147
+(N) 2026-06-04T23:32:10 - Using config directory: /config/qBittorrent
+(N) 2026-06-04T23:32:10 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2026-06-04T23:32:10 - Peer ID: "-qB5210-"
+(I) 2026-06-04T23:32:10 - HTTP User-Agent: "qBittorrent/5.2.1"
+(I) 2026-06-04T23:32:10 - Distributed Hash Table (DHT) support: ON
+(I) 2026-06-04T23:32:10 - Local Peer Discovery support: ON
+(I) 2026-06-04T23:32:10 - Peer Exchange (PeX) support: ON
+(I) 2026-06-04T23:32:10 - Anonymous mode: OFF
+(I) 2026-06-04T23:32:10 - Encryption support: ON
+(I) 2026-06-04T23:32:10 - Embedded Tracker: Now listening on IP: 0.0.0.0, port: 9000
+(I) 2026-06-04T23:32:10 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
+(I) 2026-06-04T23:32:10 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
+(I) 2026-06-04T23:32:10 - Successfully listening on IP. IP: "10.169.254.1". Port: "TCP/6881"
+(I) 2026-06-04T23:32:10 - Successfully listening on IP. IP: "10.169.254.1". Port: "UTP/6881"
+(I) 2026-06-04T23:32:10 - Successfully listening on IP. IP: "172.20.143.48". Port: "TCP/6881"
+(I) 2026-06-04T23:32:10 - Successfully listening on IP. IP: "172.20.143.48". Port: "UTP/6881"
+(I) 2026-06-04T23:32:10 - Successfully listening on IP. IP: "::1". Port: "TCP/6881"
+(I) 2026-06-04T23:32:10 - Successfully listening on IP. IP: "::1". Port: "UTP/6881"
+(I) 2026-06-04T23:32:10 - Successfully listening on IP. IP: "fd96:4158:7963::1". Port: "TCP/6881"
+(I) 2026-06-04T23:32:10 - Successfully listening on IP. IP: "fd96:4158:7963::1". Port: "UTP/6881"
+(I) 2026-06-04T23:32:10 - Successfully listening on IP. IP: "fe80::c04e:62ff:fe18:b3f6%eth0". Port: "TCP/6881"
+(I) 2026-06-04T23:32:10 - Successfully listening on IP. IP: "fe80::c04e:62ff:fe18:b3f6%eth0". Port: "UTP/6881"
+(I) 2026-06-04T23:32:10 - Successfully listening on IP. IP: "fdda:8ca4:1556:a008::1". Port: "TCP/6881"
+(I) 2026-06-04T23:32:10 - Successfully listening on IP. IP: "fdda:8ca4:1556:a008::1". Port: "UTP/6881"
+(I) 2026-06-04T23:32:10 - Successfully listening on IP. IP: "fe80::e8e9:7bff:fed9:c6b8%v-dn42". Port: "TCP/6881"
+(I) 2026-06-04T23:32:10 - Successfully listening on IP. IP: "fe80::e8e9:7bff:fed9:c6b8%v-dn42". Port: "UTP/6881"
+(I) 2026-06-04T23:32:10 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon Jun 1 01:42:47 2026.
+(N) 2026-06-04T23:32:10 - Using built-in WebUI.
+(N) 2026-06-04T23:32:10 - WebUI translation for selected locale (en) has been successfully loaded.
+(N) 2026-06-04T23:32:10 - WebUI: Now listening on IP: *, port: 19080
+(I) 2026-06-04T23:32:10 - Detected external IP. IP: "152.53.46.158"
+(I) 2026-06-04T23:32:10 - Detected external IP. IP: "2a0a:4cc0:0:2573:48bc:85ff:fe51:e967"
+(N) 2026-06-04T23:32:15 - WebAPI login success. IP: ::ffff:10.169.254.2
+(N) 2026-06-04T23:33:51 - Added new torrent. Torrent: "ios"
+(N) 2026-06-04T23:34:32 - Added tracker to torrent. Torrent: "ios". Tracker: "udp://tracker.torrent.eu.org:451/announce"
+(N) 2026-06-04T23:34:32 - Added tracker to torrent. Torrent: "ios". Tracker: "https://tracker.leechshield.link:443/announce"
+(N) 2026-06-04T23:34:32 - Added tracker to torrent. Torrent: "ios". Tracker: "udp://ipv4announce.sktorrent.eu:6969/announce"
+(N) 2026-06-04T23:34:32 - Added tracker to torrent. Torrent: "ios". Tracker: "http://tracker.sbsub.com:2710/announce"
+(N) 2026-06-04T23:34:32 - Added tracker to torrent. Torrent: "ios". Tracker: "http://tracker.dmcomic.org:2710/announce"
+(N) 2026-06-04T23:34:32 - Added tracker to torrent. Torrent: "ios". Tracker: "udp://rekcart.duckdns.org:15480/announce"
+(N) 2026-06-04T23:34:32 - Added tracker to torrent. Torrent: "ios". Tracker: "udp://tracker-udp.gbitt.info:80/announce"
+(N) 2026-06-04T23:34:32 - Added tracker to torrent. Torrent: "ios". Tracker: "https://tracker.nekomi.cn:443/announce"
+(N) 2026-06-04T23:34:32 - Added tracker to torrent. Torrent: "ios". Tracker: "http://tracker.tritan.gg:8080/announce"
+(N) 2026-06-04T23:34:32 - Added tracker to torrent. Torrent: "ios". Tracker: "https://open.ftorrent.com:443/announce"
+(N) 2026-06-04T23:34:32 - Added tracker to torrent. Torrent: "ios". Tracker: "udp://6ahddutb1ucc3cp.ru:6969/announce"
+(N) 2026-06-04T23:34:32 - Added tracker to torrent. Torrent: "ios". Tracker: "http://tracker.privateseedbox.xyz:2710/announce"
+(N) 2026-06-04T23:34:32 - Added tracker to torrent. Torrent: "ios". Tracker: "http://shubt.net:2710/announce"
+(N) 2026-06-04T23:34:32 - Added tracker to torrent. Torrent: "ios". Tracker: "http://tr.kxmp.cf:80/announce"
+(N) 2026-06-04T23:34:32 - Added tracker to torrent. Torrent: "ios". Tracker: "http://seeders-paradise.org:80/announce"
+(N) 2026-06-04T23:34:32 - Added tracker to torrent. Torrent: "ios". Tracker: "udp://leet-tracker.moe:1337/announce"
+(N) 2026-06-04T23:34:32 - Added tracker to torrent. Torrent: "ios". Tracker: "http://tracker.qu.ax:6969/announce"
+(N) 2026-06-04T23:34:32 - Added tracker to torrent. Torrent: "ios". Tracker: "https://tracker.bt4g.com:443/announce"
+(N) 2026-06-04T23:34:32 - Added tracker to torrent. Torrent: "ios". Tracker: "udp://tracker.bluefrog.pw:2710/announce"
+(N) 2026-06-04T23:34:32 - Added tracker to torrent. Torrent: "ios". Tracker: "udp://tracker.corpscorp.online:80/announce"
+(N) 2026-06-04T23:34:32 - Added tracker to torrent. Torrent: "ios". Tracker: "udp://tracker.t-1.org:6969/announce"
+(N) 2026-06-04T23:34:32 - Added tracker to torrent. Torrent: "ios". Tracker: "http://retracker.spark-rostov.ru:80/announce"
+(N) 2026-06-04T23:34:32 - Added tracker to torrent. Torrent: "ios". Tracker: "https://tracker.yemekyedim.com:443/announce"
+(N) 2026-06-04T23:34:32 - Added tracker to torrent. Torrent: "ios". Tracker: "http://0123456789nonexistent.com:80/announce"
+(N) 2026-06-04T23:34:32 - Added tracker to torrent. Torrent: "ios". Tracker: "udp://zer0day.ch:1337/announce"
+(N) 2026-06-04T23:34:32 - Added tracker to torrent. Torrent: "ios". Tracker: "https://tracker.pmman.tech:443/announce"
+(N) 2026-06-04T23:34:32 - Added tracker to torrent. Torrent: "ios". Tracker: "http://tracker.xiaoduola.xyz:6969/announce"
+(N) 2026-06-04T23:34:32 - Added tracker to torrent. Torrent: "ios". Tracker: "https://tracker.7471.top:443/announce"
+(N) 2026-06-04T23:34:32 - Added tracker to torrent. Torrent: "ios". Tracker: "udp://tracker.ddunlimited.net:6969/announce"
+(N) 2026-06-04T23:34:32 - Added tracker to torrent. Torrent: "ios". Tracker: "https://torrents.tmtime.dev:443/announce"
+(N) 2026-06-04T23:34:32 - Added tracker to torrent. Torrent: "ios". Tracker: "udp://tracker.publictracker.xyz:6969/announce"
+(N) 2026-06-04T23:34:32 - Added tracker to torrent. Torrent: "ios". Tracker: "http://torrent.hificode.in:6969/announce"
+(N) 2026-06-04T23:34:32 - Added tracker to torrent. Torrent: "ios". Tracker: "http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce"
+(N) 2026-06-04T23:34:32 - Added tracker to torrent. Torrent: "ios". Tracker: "udp://tracker.playground.ru:6969/announce"
+(N) 2026-06-04T23:34:32 - Added tracker to torrent. Torrent: "ios". Tracker: "udp://tracker.004430.xyz:1337/announce"
+(N) 2026-06-04T23:34:32 - Added tracker to torrent. Torrent: "ios". Tracker: "udp://yuptracker-eu.gaijinent.com:27022/announce"
+(N) 2026-06-04T23:34:32 - Added tracker to torrent. Torrent: "ios". Tracker: "http://t.overflow.biz:6969/announce"
+(N) 2026-06-04T23:34:32 - Added tracker to torrent. Torrent: "ios". Tracker: "http://tracker.zhuqiy.com:80/announce"
+(N) 2026-06-04T23:34:32 - Added tracker to torrent. Torrent: "ios". Tracker: "udp://uabits.today:6990/announce"
+(N) 2026-06-04T23:34:32 - Added tracker to torrent. Torrent: "ios". Tracker: "udp://tracker.tryhackx.org:6969/announce"
+(N) 2026-06-04T23:34:32 - Added tracker to torrent. Torrent: "ios". Tracker: "udp://tracker.bittor.pw:1337/announce"
+(N) 2026-06-04T23:34:32 - Added tracker to torrent. Torrent: "ios". Tracker: "udp://tracker.qu.ax:6969/announce"
+(N) 2026-06-04T23:34:32 - Added tracker to torrent. Torrent: "ios". Tracker: "http://tracker.waaa.moe:6969/announce"
+(N) 2026-06-04T23:34:32 - Added tracker to torrent. Torrent: "ios". Tracker: "http://tracker.mywaifu.best:6969/announce"
+(N) 2026-06-04T23:34:32 - Added tracker to torrent. Torrent: "ios". Tracker: "http://jvavav.com:80/announce"
+(N) 2026-06-04T23:34:32 - Added tracker to torrent. Torrent: "ios". Tracker: "udp://tracker.wildkat.net:6969/announce"
+(N) 2026-06-04T23:34:32 - Added tracker to torrent. Torrent: "ios". Tracker: "http://tracker.bt4g.com:2095/announce"
+(N) 2026-06-04T23:34:32 - Added tracker to torrent. Torrent: "ios". Tracker: "http://tracker2.dler.org:80/announce"
+(N) 2026-06-04T23:34:32 - Added tracker to torrent. Torrent: "ios". Tracker: "udp://evan.im:6969/announce"
+(N) 2026-06-04T23:34:32 - Added tracker to torrent. Torrent: "ios". Tracker: "http://tracker.moxing.party:6969/announce"
+(N) 2026-06-04T23:34:32 - Added tracker to torrent. Torrent: "ios". Tracker: "https://t.213891.xyz:443/announce"
+(N) 2026-06-04T23:34:32 - Added tracker to torrent. Torrent: "ios". Tracker: "udp://torrents.tmtime.dev:6969/announce"
+(N) 2026-06-04T23:34:32 - Added tracker to torrent. Torrent: "ios". Tracker: "http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce"
+(N) 2026-06-04T23:34:32 - Added tracker to torrent. Torrent: "ios". Tracker: "udp://tracker.hismz.cn:6969/announce"
+(N) 2026-06-04T23:34:32 - Added tracker to torrent. Torrent: "ios". Tracker: "udp://tracker.startwork.cv:1337/announce"
+(N) 2026-06-04T23:34:32 - Added tracker to torrent. Torrent: "ios". Tracker: "udp://tracker.ducks.party:1984/announce"
+(N) 2026-06-04T23:34:32 - Added tracker to torrent. Torrent: "ios". Tracker: "http://bvarf.tracker.sh:2086/announce"
+(N) 2026-06-04T23:34:32 - Added tracker to torrent. Torrent: "ios". Tracker: "udp://admin.52ywp.com:6969/announce"
+(N) 2026-06-04T23:34:32 - Added tracker to torrent. Torrent: "ios". Tracker: "http://tracker.dler.org:6969/announce"
+(N) 2026-06-04T23:34:32 - Added tracker to torrent. Torrent: "ios". Tracker: "udp://udp.tracker.projectk.org:23333/announce"
+(N) 2026-06-04T23:34:32 - Added tracker to torrent. Torrent: "ios". Tracker: "udp://seedpeer.net:6969/announce"
+(N) 2026-06-04T23:34:32 - Added tracker to torrent. Torrent: "ios". Tracker: "udp://torrentclub.online:54123/announce"
+(N) 2026-06-04T23:34:32 - Added tracker to torrent. Torrent: "ios". Tracker: "udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce"
+(N) 2026-06-04T23:34:32 - Added tracker to torrent. Torrent: "ios". Tracker: "https://shahidrazi.online:443/announce"
+(N) 2026-06-04T23:34:32 - Added tracker to torrent. Torrent: "ios". Tracker: "https://tr.nyacat.pw:443/announce"
+(N) 2026-06-04T23:34:32 - Added tracker to torrent. Torrent: "ios". Tracker: "http://tracker.dler.com:6969/announce"
+(N) 2026-06-04T23:34:32 - Added tracker to torrent. Torrent: "ios". Tracker: "udp://tracker.opentorrent.top:6969/announce"
+(N) 2026-06-04T23:34:32 - Added tracker to torrent. Torrent: "ios". Tracker: "udp://tracker.dler.org:6969/announce"
+(N) 2026-06-04T23:34:32 - Added tracker to torrent. Torrent: "ios". Tracker: "udp://tracker.fnix.net:6969/announce"
+(N) 2026-06-04T23:34:32 - Added tracker to torrent. Torrent: "ios". Tracker: "udp://open.ftorrent.com:443/announce"
+(N) 2026-06-04T23:34:32 - Added tracker to torrent. Torrent: "ios". Tracker: "udp://tracker.filemail.com:6969/announce"
+(N) 2026-06-04T23:34:32 - Added tracker to torrent. Torrent: "ios". Tracker: "udp://tracker.plx.im:6969/announce"
+(N) 2026-06-04T23:34:32 - Added tracker to torrent. Torrent: "ios". Tracker: "http://buny.uk:6969/announce"
+(N) 2026-06-04T23:34:32 - Added tracker to torrent. Torrent: "ios". Tracker: "udp://tracker.1h.is:1337/announce"
+(N) 2026-06-04T23:34:32 - Added tracker to torrent. Torrent: "ios". Tracker: "udp://tracker.iperson.xyz:6969/announce"
+(N) 2026-06-04T23:34:32 - Added tracker to torrent. Torrent: "ios". Tracker: "http://tr.highstar.shop:80/announce"
+(N) 2026-06-04T23:34:32 - Added tracker to torrent. Torrent: "ios". Tracker: "udp://martin-gebhardt.eu:25/announce"
+(N) 2026-06-04T23:34:32 - Added tracker to torrent. Torrent: "ios". Tracker: "udp://tr4ck3r.duckdns.org:6969/announce"
+(N) 2026-06-04T23:34:32 - Added tracker to torrent. Torrent: "ios". Tracker: "udp://retracker01-msk-virt.corbina.net:80/announce"
+(N) 2026-06-04T23:34:32 - Added tracker to torrent. Torrent: "ios". Tracker: "udp://open.stealth.si:80/announce"
+(N) 2026-06-04T23:34:32 - Added tracker to torrent. Torrent: "ios". Tracker: "http://share.hkg-fansub.info:80/announce.php"
+(N) 2026-06-04T23:34:32 - Added tracker to torrent. Torrent: "ios". Tracker: "https://pybittrack.retiolus.net:443/announce"
+(N) 2026-06-04T23:34:32 - Added tracker to torrent. Torrent: "ios". Tracker: "http://bt.poletracker.org:2710/announce"
+(N) 2026-06-04T23:34:32 - Added tracker to torrent. Torrent: "ios". Tracker: "udp://open.demonii.com:1337/announce"
+(N) 2026-06-04T23:34:32 - Added tracker to torrent. Torrent: "ios". Tracker: "http://tracker.dhitechnical.com:6969/announce"
+(N) 2026-06-04T23:34:32 - Added tracker to torrent. Torrent: "ios". Tracker: "udp://tracker.nyaa.vc:6969/announce"
+(N) 2026-06-04T23:34:32 - Added tracker to torrent. Torrent: "ios". Tracker: "http://tracker810.xyz:11450/announce"
+(N) 2026-06-04T23:34:32 - Added tracker to torrent. Torrent: "ios". Tracker: "udp://tracker.flatuslifir.is:6969/announce"
+(N) 2026-06-04T23:34:32 - Added tracker to torrent. Torrent: "ios". Tracker: "http://0d.kebhana.mx:443/announce"
+(N) 2026-06-04T23:34:32 - Added tracker to torrent. Torrent: "ios". Tracker: "udp://tracker.gmi.gd:6969/announce"
+(N) 2026-06-04T23:34:32 - Added tracker to torrent. Torrent: "ios". Tracker: "udp://t.overflow.biz:6969/announce"
+(N) 2026-06-04T23:34:32 - Added tracker to torrent. Torrent: "ios". Tracker: "udp://vito-tracker.space:6969/announce"
+(N) 2026-06-04T23:34:32 - Added tracker to torrent. Torrent: "ios". Tracker: "https://tracker.zhuqiy.com:443/announce"
+(N) 2026-06-04T23:34:32 - Added tracker to torrent. Torrent: "ios". Tracker: "udp://tracker.theoks.net:6969/announce"
+(N) 2026-06-04T23:34:32 - Added tracker to torrent. Torrent: "ios". Tracker: "http://tr.nyacat.pw:80/announce"
+(N) 2026-06-04T23:34:32 - Added tracker to torrent. Torrent: "ios". Tracker: "udp://tracker.auctor.tv:6969/announce"
+(N) 2026-06-04T23:34:32 - Added tracker to torrent. Torrent: "ios". Tracker: "http://1337.abcvg.info:80/announce"
+(N) 2026-06-04T23:34:32 - Added tracker to torrent. Torrent: "ios". Tracker: "udp://ns575949.ip-51-222-82.net:6969/announce"
+(N) 2026-06-04T23:34:32 - Added tracker to torrent. Torrent: "ios". Tracker: "https://tr.zukizuki.org:443/announce"
+(N) 2026-06-04T23:34:32 - Added tracker to torrent. Torrent: "ios". Tracker: "http://tracker.renfei.net:8080/announce"
+(N) 2026-06-04T23:34:32 - Added tracker to torrent. Torrent: "ios". Tracker: "http://home.yxgz.club:6969/announce"
+(N) 2026-06-04T23:34:32 - Added tracker to torrent. Torrent: "ios". Tracker: "udp://tracker.opentrackr.org:1337/announce"
+(N) 2026-06-04T23:34:32 - Added tracker to torrent. Torrent: "ios". Tracker: "http://tracker.23794.top:6969/announce"
+(N) 2026-06-04T23:34:32 - Added tracker to torrent. Torrent: "ios". Tracker: "http://004430.xyz:80/announce"
+(N) 2026-06-04T23:34:32 - Added tracker to torrent. Torrent: "ios". Tracker: "http://tracker.opentrackr.org:1337/announce"
+(N) 2026-06-04T23:34:32 - Added tracker to torrent. Torrent: "ios". Tracker: "http://open.trackerlist.xyz:80/announce"
+(N) 2026-06-04T23:45:42 - Added new torrent. Torrent: "debian-13.5.0-arm64-netinst.iso"
+(N) 2026-06-04T23:46:45 - Added new torrent. Torrent: "Cisco_Images"
+(N) 2026-06-04T23:46:58 - Torrent download finished. Torrent: "debian-13.5.0-arm64-netinst.iso"
+(N) 2026-06-04T23:48:00 - Added new torrent. Torrent: "debian-13.5.0-amd64-netinst.iso"
+(W) 2026-06-04T23:48:02 - Received error message from URL seed. Torrent: "debian-13.5.0-amd64-netinst.iso". URL: "https://cdimage.debian.org/cdimage/archive/13.5.0/amd64/iso-cd/debian-13.5.0-amd64-netinst.iso". Message: "404 Not Found"
+(N) 2026-06-04T23:52:09 - Torrent download finished. Torrent: "Cisco_Images"
+(N) 2026-06-04T23:52:15 - Torrent download finished. Torrent: "debian-13.5.0-amd64-netinst.iso"
+(N) 2026-06-05T08:37:50 - WebAPI login success. IP: ::ffff:10.169.254.2
+(N) 2026-06-05T10:57:25 - WebAPI login success. IP: ::ffff:10.169.254.2
+(N) 2026-06-05T13:37:46 - WebAPI login success. IP: ::ffff:10.169.254.2
+(N) 2026-06-05T18:14:03 - WebAPI login success. IP: ::ffff:10.169.254.2
+(N) 2026-06-05T19:37:59 - WebAPI login success. IP: ::ffff:10.169.254.2
+(N) 2026-06-05T23:13:39 - WebAPI login success. IP: ::ffff:10.169.254.2
+(N) 2026-06-06T09:05:10 - WebAPI login success. IP: ::ffff:10.169.254.2
+(N) 2026-06-06T11:26:27 - WebAPI login success. IP: ::ffff:10.169.254.2
+(N) 2026-06-06T15:39:26 - WebAPI login success. IP: ::ffff:10.169.254.2
+(N) 2026-06-06T19:42:35 - WebAPI login success. IP: ::ffff:10.169.254.2
+(N) 2026-06-06T20:07:59 - System wake-up event detected. Re-announcing to all the trackers...
+(W) 2026-06-06T20:07:59 - File error alert. Torrent: "ios". File: "/downloads1/ios/asr1000/asr1001-universalk9_npe.03.13.00.S.154-3.S-ext.bin". Reason: "ios file_read (/downloads1/ios/asr1000/asr1001-universalk9_npe.03.13.00.S.154-3.S-ext.bin) error: I/O error"
+(N) 2026-06-06T20:15:47 - System wake-up event detected. Re-announcing to all the trackers...
+(W) 2026-06-06T20:15:47 - File error alert. Torrent: "ios". File: "/downloads1/ios/8xx/890/c890-universalk9-mz.154-3.M6a.bin". Reason: "ios file_read (/downloads1/ios/8xx/890/c890-universalk9-mz.154-3.M6a.bin) error: I/O error"
+(N) 2026-06-07T09:45:58 - WebAPI login success. IP: ::ffff:10.169.254.2
+(N) 2026-06-07T09:47:40 - Torrent stopped. Torrent: "ios"
+(N) 2026-06-07T09:47:45 - Torrent resumed. Torrent: "ios"
+(N) 2026-06-07T12:23:36 - Torrent stopped. Torrent: "ios"
+(N) 2026-06-07T12:23:43 - qBittorrent termination initiated
+(N) 2026-06-07T12:23:43 - Saving resume data completed.
+(N) 2026-06-07T12:23:46 - BitTorrent session successfully finished.
+(N) 2026-06-07T12:23:46 - qBittorrent is now ready to exit
+(N) 2026-06-07T12:23:47 - qBittorrent v5.2.1 started. Process ID: 1704
+(N) 2026-06-07T12:23:47 - Using config directory: /config/qBittorrent
+(N) 2026-06-07T12:23:47 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2026-06-07T12:23:47 - Peer ID: "-qB5210-"
+(I) 2026-06-07T12:23:47 - HTTP User-Agent: "qBittorrent/5.2.1"
+(I) 2026-06-07T12:23:47 - Distributed Hash Table (DHT) support: ON
+(I) 2026-06-07T12:23:47 - Local Peer Discovery support: ON
+(I) 2026-06-07T12:23:47 - Peer Exchange (PeX) support: ON
+(I) 2026-06-07T12:23:47 - Anonymous mode: OFF
+(I) 2026-06-07T12:23:47 - Encryption support: ON
+(I) 2026-06-07T12:23:47 - Embedded Tracker: Now listening on IP: 0.0.0.0, port: 9000
+(I) 2026-06-07T12:23:47 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
+(I) 2026-06-07T12:23:47 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
+(I) 2026-06-07T12:23:47 - Successfully listening on IP. IP: "10.169.254.1". Port: "TCP/6881"
+(I) 2026-06-07T12:23:47 - Successfully listening on IP. IP: "10.169.254.1". Port: "UTP/6881"
+(I) 2026-06-07T12:23:47 - Successfully listening on IP. IP: "172.20.143.48". Port: "TCP/6881"
+(I) 2026-06-07T12:23:47 - Successfully listening on IP. IP: "172.20.143.48". Port: "UTP/6881"
+(I) 2026-06-07T12:23:47 - Successfully listening on IP. IP: "::1". Port: "TCP/6881"
+(I) 2026-06-07T12:23:47 - Successfully listening on IP. IP: "::1". Port: "UTP/6881"
+(I) 2026-06-07T12:23:47 - Successfully listening on IP. IP: "fd96:4158:7963::1". Port: "TCP/6881"
+(I) 2026-06-07T12:23:47 - Successfully listening on IP. IP: "fd96:4158:7963::1". Port: "UTP/6881"
+(I) 2026-06-07T12:23:47 - Successfully listening on IP. IP: "fe80::c04e:62ff:fe18:b3f6%eth0". Port: "TCP/6881"
+(I) 2026-06-07T12:23:47 - Successfully listening on IP. IP: "fe80::c04e:62ff:fe18:b3f6%eth0". Port: "UTP/6881"
+(I) 2026-06-07T12:23:47 - Successfully listening on IP. IP: "fdda:8ca4:1556:a008::1". Port: "TCP/6881"
+(I) 2026-06-07T12:23:47 - Successfully listening on IP. IP: "fdda:8ca4:1556:a008::1". Port: "UTP/6881"
+(I) 2026-06-07T12:23:47 - Successfully listening on IP. IP: "fe80::e8e9:7bff:fed9:c6b8%v-dn42". Port: "TCP/6881"
+(I) 2026-06-07T12:23:47 - Successfully listening on IP. IP: "fe80::e8e9:7bff:fed9:c6b8%v-dn42". Port: "UTP/6881"
+(N) 2026-06-07T12:23:47 - Restored torrent. Torrent: "ios"
+(N) 2026-06-07T12:23:47 - Restored torrent. Torrent: "Cisco_Images"
+(N) 2026-06-07T12:23:47 - Restored torrent. Torrent: "debian-13.5.0-amd64-netinst.iso"
+(N) 2026-06-07T12:23:47 - Restored torrent. Torrent: "debian-13.5.0-arm64-netinst.iso"
+(I) 2026-06-07T12:23:47 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon Jun 1 01:42:47 2026.
+(N) 2026-06-07T12:23:47 - Using built-in WebUI.
+(N) 2026-06-07T12:23:47 - WebUI translation for selected locale (en) has been successfully loaded.
+(N) 2026-06-07T12:23:47 - WebUI: Now listening on IP: *, port: 19080
+(I) 2026-06-07T12:23:47 - Detected external IP. IP: "152.53.46.158"
+(I) 2026-06-07T12:23:47 - Detected external IP. IP: "2a0a:4cc0:0:2573:48bc:85ff:fe51:e967"
+(N) 2026-06-07T12:23:50 - qBittorrent termination initiated
+(N) 2026-06-07T12:23:51 - Saving resume data completed.
+(N) 2026-06-07T12:24:09 - qBittorrent v5.2.1 started. Process ID: 146
+(N) 2026-06-07T12:24:09 - Using config directory: /config/qBittorrent
+(N) 2026-06-07T12:24:10 - qBittorrent termination initiated
+(N) 2026-06-07T12:24:10 - qBittorrent is now ready to exit
+(N) 2026-06-07T12:24:11 - qBittorrent v5.2.1 started. Process ID: 162
+(N) 2026-06-07T12:24:11 - Using config directory: /config/qBittorrent
+(N) 2026-06-07T12:24:11 - qBittorrent termination initiated
+(N) 2026-06-07T12:24:11 - qBittorrent is now ready to exit
+(N) 2026-06-07T12:24:12 - qBittorrent v5.2.1 started. Process ID: 170
+(N) 2026-06-07T12:24:12 - Using config directory: /config/qBittorrent
+(N) 2026-06-07T12:24:13 - qBittorrent termination initiated
+(N) 2026-06-07T12:24:13 - qBittorrent is now ready to exit
+(N) 2026-06-07T12:24:14 - qBittorrent v5.2.1 started. Process ID: 178
+(N) 2026-06-07T12:24:14 - Using config directory: /config/qBittorrent
+(N) 2026-06-07T12:24:15 - qBittorrent termination initiated
+(N) 2026-06-07T12:24:15 - qBittorrent is now ready to exit
+(N) 2026-06-07T12:24:16 - qBittorrent v5.2.1 started. Process ID: 186
+(N) 2026-06-07T12:24:16 - Using config directory: /config/qBittorrent
+(N) 2026-06-07T12:24:16 - qBittorrent termination initiated
+(N) 2026-06-07T12:24:16 - qBittorrent is now ready to exit
+(N) 2026-06-07T12:24:17 - qBittorrent v5.2.1 started. Process ID: 194
+(N) 2026-06-07T12:24:17 - Using config directory: /config/qBittorrent
+(N) 2026-06-07T12:24:18 - qBittorrent termination initiated
+(N) 2026-06-07T12:24:18 - qBittorrent is now ready to exit
+(N) 2026-06-07T12:24:19 - qBittorrent v5.2.1 started. Process ID: 202
+(N) 2026-06-07T12:24:19 - Using config directory: /config/qBittorrent
+(N) 2026-06-07T12:24:20 - qBittorrent termination initiated
+(N) 2026-06-07T12:24:20 - qBittorrent is now ready to exit
+(N) 2026-06-07T12:24:21 - qBittorrent v5.2.1 started. Process ID: 210
+(N) 2026-06-07T12:24:21 - Using config directory: /config/qBittorrent
+(N) 2026-06-07T12:24:21 - qBittorrent termination initiated
+(N) 2026-06-07T12:24:21 - qBittorrent is now ready to exit
+(N) 2026-06-07T12:24:22 - qBittorrent v5.2.1 started. Process ID: 218
+(N) 2026-06-07T12:24:22 - Using config directory: /config/qBittorrent
+(N) 2026-06-07T12:24:23 - qBittorrent termination initiated
+(N) 2026-06-07T12:24:23 - qBittorrent is now ready to exit
+(N) 2026-06-07T12:24:24 - qBittorrent v5.2.1 started. Process ID: 226
+(N) 2026-06-07T12:24:24 - Using config directory: /config/qBittorrent
+(N) 2026-06-07T12:24:25 - qBittorrent termination initiated
+(N) 2026-06-07T12:24:25 - qBittorrent is now ready to exit
+(N) 2026-06-07T12:24:26 - qBittorrent v5.2.1 started. Process ID: 234
+(N) 2026-06-07T12:24:26 - Using config directory: /config/qBittorrent
+(N) 2026-06-07T12:24:26 - qBittorrent termination initiated
+(N) 2026-06-07T12:24:26 - qBittorrent is now ready to exit
+(N) 2026-06-07T12:24:27 - qBittorrent v5.2.1 started. Process ID: 242
+(N) 2026-06-07T12:24:27 - Using config directory: /config/qBittorrent
+(N) 2026-06-07T12:24:28 - qBittorrent termination initiated
+(N) 2026-06-07T12:24:28 - qBittorrent is now ready to exit
+(N) 2026-06-07T12:24:29 - qBittorrent v5.2.1 started. Process ID: 250
+(N) 2026-06-07T12:24:29 - Using config directory: /config/qBittorrent
+(N) 2026-06-07T12:24:30 - qBittorrent termination initiated
+(N) 2026-06-07T12:24:30 - qBittorrent is now ready to exit
+(N) 2026-06-07T12:24:31 - qBittorrent v5.2.1 started. Process ID: 258
+(N) 2026-06-07T12:24:31 - Using config directory: /config/qBittorrent
+(N) 2026-06-07T12:24:31 - qBittorrent termination initiated
+(N) 2026-06-07T12:24:31 - qBittorrent is now ready to exit
+(N) 2026-06-07T12:24:32 - qBittorrent v5.2.1 started. Process ID: 266
+(N) 2026-06-07T12:24:32 - Using config directory: /config/qBittorrent
+(N) 2026-06-07T12:24:33 - qBittorrent termination initiated
+(N) 2026-06-07T12:24:33 - qBittorrent is now ready to exit
+(N) 2026-06-07T12:24:34 - qBittorrent v5.2.1 started. Process ID: 274
+(N) 2026-06-07T12:24:34 - Using config directory: /config/qBittorrent
+(N) 2026-06-07T12:24:35 - qBittorrent termination initiated
+(N) 2026-06-07T12:24:35 - qBittorrent is now ready to exit
+(N) 2026-06-07T12:24:36 - qBittorrent v5.2.1 started. Process ID: 282
+(N) 2026-06-07T12:24:36 - Using config directory: /config/qBittorrent
+(N) 2026-06-07T12:24:36 - qBittorrent termination initiated
+(N) 2026-06-07T12:24:36 - qBittorrent is now ready to exit
+(N) 2026-06-07T12:24:37 - qBittorrent v5.2.1 started. Process ID: 290
+(N) 2026-06-07T12:24:37 - Using config directory: /config/qBittorrent
+(N) 2026-06-07T12:24:38 - qBittorrent termination initiated
+(N) 2026-06-07T12:24:38 - qBittorrent is now ready to exit
+(N) 2026-06-07T12:24:39 - qBittorrent v5.2.1 started. Process ID: 298
+(N) 2026-06-07T12:24:39 - Using config directory: /config/qBittorrent
+(N) 2026-06-07T12:24:40 - qBittorrent termination initiated
+(N) 2026-06-07T12:24:40 - qBittorrent is now ready to exit
+(N) 2026-06-07T12:24:41 - qBittorrent v5.2.1 started. Process ID: 306
+(N) 2026-06-07T12:24:41 - Using config directory: /config/qBittorrent
+(N) 2026-06-07T12:24:41 - qBittorrent termination initiated
+(N) 2026-06-07T12:24:41 - qBittorrent is now ready to exit
+(N) 2026-06-07T12:24:42 - qBittorrent v5.2.1 started. Process ID: 314
+(N) 2026-06-07T12:24:42 - Using config directory: /config/qBittorrent
+(N) 2026-06-07T12:24:43 - qBittorrent termination initiated
+(N) 2026-06-07T12:24:43 - qBittorrent is now ready to exit
+(N) 2026-06-07T12:24:44 - qBittorrent v5.2.1 started. Process ID: 322
+(N) 2026-06-07T12:24:44 - Using config directory: /config/qBittorrent
+(N) 2026-06-07T12:24:45 - qBittorrent termination initiated
+(N) 2026-06-07T12:24:45 - qBittorrent is now ready to exit
+(N) 2026-06-07T12:24:46 - qBittorrent v5.2.1 started. Process ID: 335
+(N) 2026-06-07T12:24:46 - Using config directory: /config/qBittorrent
+(N) 2026-06-07T12:24:46 - qBittorrent termination initiated
+(N) 2026-06-07T12:24:46 - qBittorrent is now ready to exit
+(N) 2026-06-07T12:24:47 - qBittorrent v5.2.1 started. Process ID: 343
+(N) 2026-06-07T12:24:47 - Using config directory: /config/qBittorrent
+(N) 2026-06-07T12:24:48 - qBittorrent termination initiated
+(N) 2026-06-07T12:24:48 - qBittorrent is now ready to exit
+(N) 2026-06-07T12:24:49 - qBittorrent v5.2.1 started. Process ID: 351
+(N) 2026-06-07T12:24:49 - Using config directory: /config/qBittorrent
+(N) 2026-06-07T12:24:50 - qBittorrent termination initiated
+(N) 2026-06-07T12:24:50 - qBittorrent is now ready to exit
+(N) 2026-06-07T12:24:51 - qBittorrent v5.2.1 started. Process ID: 359
+(N) 2026-06-07T12:24:51 - Using config directory: /config/qBittorrent
+(N) 2026-06-07T12:24:51 - qBittorrent termination initiated
+(N) 2026-06-07T12:24:51 - qBittorrent is now ready to exit
+(N) 2026-06-07T12:24:52 - qBittorrent v5.2.1 started. Process ID: 367
+(N) 2026-06-07T12:24:52 - Using config directory: /config/qBittorrent
+(N) 2026-06-07T12:24:53 - qBittorrent termination initiated
+(N) 2026-06-07T12:24:53 - qBittorrent is now ready to exit
+(N) 2026-06-07T12:24:54 - qBittorrent v5.2.1 started. Process ID: 375
+(N) 2026-06-07T12:24:54 - Using config directory: /config/qBittorrent
+(N) 2026-06-07T12:24:55 - qBittorrent termination initiated
+(N) 2026-06-07T12:24:55 - qBittorrent is now ready to exit
+(N) 2026-06-07T12:25:25 - qBittorrent v5.2.1 started. Process ID: 147
+(N) 2026-06-07T12:25:25 - Using config directory: /config/qBittorrent
+(N) 2026-06-07T12:25:25 - Trying to listen on the following list of IP addresses: "0.0.0.0:6881,[::]:6881"
+(I) 2026-06-07T12:25:25 - Peer ID: "-qB5210-"
+(I) 2026-06-07T12:25:25 - HTTP User-Agent: "qBittorrent/5.2.1"
+(I) 2026-06-07T12:25:25 - Distributed Hash Table (DHT) support: ON
+(I) 2026-06-07T12:25:25 - Local Peer Discovery support: ON
+(I) 2026-06-07T12:25:25 - Peer Exchange (PeX) support: ON
+(I) 2026-06-07T12:25:25 - Anonymous mode: OFF
+(I) 2026-06-07T12:25:25 - Encryption support: ON
+(I) 2026-06-07T12:25:25 - Embedded Tracker: Now listening on IP: 0.0.0.0, port: 9000
+(I) 2026-06-07T12:25:25 - Successfully listening on IP. IP: "127.0.0.1". Port: "TCP/6881"
+(I) 2026-06-07T12:25:25 - Successfully listening on IP. IP: "127.0.0.1". Port: "UTP/6881"
+(I) 2026-06-07T12:25:25 - Successfully listening on IP. IP: "10.169.254.1". Port: "TCP/6881"
+(I) 2026-06-07T12:25:25 - Successfully listening on IP. IP: "10.169.254.1". Port: "UTP/6881"
+(I) 2026-06-07T12:25:25 - Successfully listening on IP. IP: "172.20.143.48". Port: "TCP/6881"
+(I) 2026-06-07T12:25:25 - Successfully listening on IP. IP: "172.20.143.48". Port: "UTP/6881"
+(I) 2026-06-07T12:25:25 - Successfully listening on IP. IP: "::1". Port: "TCP/6881"
+(I) 2026-06-07T12:25:25 - Successfully listening on IP. IP: "::1". Port: "UTP/6881"
+(I) 2026-06-07T12:25:25 - Successfully listening on IP. IP: "fd96:4158:7963::1". Port: "TCP/6881"
+(I) 2026-06-07T12:25:25 - Successfully listening on IP. IP: "fd96:4158:7963::1". Port: "UTP/6881"
+(I) 2026-06-07T12:25:25 - Successfully listening on IP. IP: "fe80::c04e:62ff:fe18:b3f6%eth0". Port: "TCP/6881"
+(I) 2026-06-07T12:25:25 - Successfully listening on IP. IP: "fe80::c04e:62ff:fe18:b3f6%eth0". Port: "UTP/6881"
+(I) 2026-06-07T12:25:25 - Successfully listening on IP. IP: "fdda:8ca4:1556:a008::1". Port: "TCP/6881"
+(I) 2026-06-07T12:25:25 - Successfully listening on IP. IP: "fdda:8ca4:1556:a008::1". Port: "UTP/6881"
+(I) 2026-06-07T12:25:25 - Successfully listening on IP. IP: "fe80::e8e9:7bff:fed9:c6b8%v-dn42". Port: "TCP/6881"
+(I) 2026-06-07T12:25:25 - Successfully listening on IP. IP: "fe80::e8e9:7bff:fed9:c6b8%v-dn42". Port: "UTP/6881"
+(N) 2026-06-07T12:25:25 - Restored torrent. Torrent: "ios"
+(N) 2026-06-07T12:25:25 - Restored torrent. Torrent: "Cisco_Images"
+(N) 2026-06-07T12:25:25 - Restored torrent. Torrent: "debian-13.5.0-amd64-netinst.iso"
+(N) 2026-06-07T12:25:25 - Restored torrent. Torrent: "debian-13.5.0-arm64-netinst.iso"
+(I) 2026-06-07T12:25:25 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Mon Jun 1 01:42:47 2026.
+(N) 2026-06-07T12:25:25 - Using built-in WebUI.
+(N) 2026-06-07T12:25:25 - WebUI translation for selected locale (en) has been successfully loaded.
+(N) 2026-06-07T12:25:25 - WebUI: Now listening on IP: *, port: 19080
+(I) 2026-06-07T12:25:25 - Detected external IP. IP: "152.53.46.158"
+(I) 2026-06-07T12:25:25 - Detected external IP. IP: "2a0a:4cc0:0:2573:48bc:85ff:fe51:e967"
+(N) 2026-06-07T12:25:32 - WebAPI login success. IP: ::ffff:10.169.254.2
+(N) 2026-06-07T12:26:24 - WebUI Set location: moving "debian-13.5.0-arm64-netinst.iso", from "/downloads1" to "/downloads2"
+(N) 2026-06-07T12:26:24 - Enqueued torrent move. Torrent: "debian-13.5.0-arm64-netinst.iso". Source: "/downloads1". Destination: "/downloads2"
+(N) 2026-06-07T12:26:24 - Start moving torrent. Torrent: "debian-13.5.0-arm64-netinst.iso". Destination: "/downloads2"
+(N) 2026-06-07T12:26:30 - WebUI Set location: moving "debian-13.5.0-amd64-netinst.iso", from "/downloads1" to "/downloads2"
+(N) 2026-06-07T12:26:30 - Enqueued torrent move. Torrent: "debian-13.5.0-amd64-netinst.iso". Source: "/downloads1". Destination: "/downloads2"
+(N) 2026-06-07T12:26:50 - Moved torrent successfully. Torrent: "debian-13.5.0-arm64-netinst.iso". Destination: "/downloads2"
+(N) 2026-06-07T12:26:50 - Start moving torrent. Torrent: "debian-13.5.0-amd64-netinst.iso". Destination: "/downloads2"
+(N) 2026-06-07T12:27:20 - Moved torrent successfully. Torrent: "debian-13.5.0-amd64-netinst.iso". Destination: "/downloads2"
+(N) 2026-06-07T12:31:33 - qBittorrent termination initiated
+(N) 2026-06-07T12:31:33 - Saving resume data completed.
+(N) 2026-06-07T12:31:58 - qBittorrent v5.2.1 started. Process ID: 145
+(N) 2026-06-07T12:31:58 - Using config directory: /config/qBittorrent
+(N) 2026-06-07T12:31:59 - qBittorrent termination initiated
+(N) 2026-06-07T12:31:59 - qBittorrent is now ready to exit
+(N) 2026-06-07T12:32:00 - qBittorrent v5.2.1 started. Process ID: 162
+(N) 2026-06-07T12:32:00 - Using config directory: /config/qBittorrent
+(N) 2026-06-07T12:32:01 - qBittorrent termination initiated
+(N) 2026-06-07T12:32:01 - qBittorrent is now ready to exit
+(N) 2026-06-07T12:32:02 - qBittorrent v5.2.1 started. Process ID: 170
+(N) 2026-06-07T12:32:02 - Using config directory: /config/qBittorrent
+(N) 2026-06-07T12:32:02 - qBittorrent termination initiated
+(N) 2026-06-07T12:32:02 - qBittorrent is now ready to exit
+(N) 2026-06-07T12:32:03 - qBittorrent v5.2.1 started. Process ID: 178
+(N) 2026-06-07T12:32:03 - Using config directory: /config/qBittorrent
+(N) 2026-06-07T12:32:04 - qBittorrent termination initiated
+(N) 2026-06-07T12:32:04 - qBittorrent is now ready to exit
+(N) 2026-06-07T12:32:05 - qBittorrent v5.2.1 started. Process ID: 186
+(N) 2026-06-07T12:32:05 - Using config directory: /config/qBittorrent
+(N) 2026-06-07T12:32:06 - qBittorrent termination initiated
+(N) 2026-06-07T12:32:06 - qBittorrent is now ready to exit
+(N) 2026-06-07T12:32:07 - qBittorrent v5.2.1 started. Process ID: 194
+(N) 2026-06-07T12:32:07 - Using config directory: /config/qBittorrent
+(N) 2026-06-07T12:32:07 - qBittorrent termination initiated
+(N) 2026-06-07T12:32:07 - qBittorrent is now ready to exit
+(N) 2026-06-07T12:32:08 - qBittorrent v5.2.1 started. Process ID: 202
+(N) 2026-06-07T12:32:08 - Using config directory: /config/qBittorrent
+(N) 2026-06-07T12:32:09 - qBittorrent termination initiated
+(N) 2026-06-07T12:32:09 - qBittorrent is now ready to exit
+(N) 2026-06-07T12:32:10 - qBittorrent v5.2.1 started. Process ID: 210
+(N) 2026-06-07T12:32:10 - Using config directory: /config/qBittorrent
+(N) 2026-06-07T12:32:11 - qBittorrent termination initiated
+(N) 2026-06-07T12:32:11 - qBittorrent is now ready to exit
+(N) 2026-06-07T12:32:12 - qBittorrent v5.2.1 started. Process ID: 218
+(N) 2026-06-07T12:32:12 - Using config directory: /config/qBittorrent
+(N) 2026-06-07T12:32:12 - qBittorrent termination initiated
+(N) 2026-06-07T12:32:12 - qBittorrent is now ready to exit
+(N) 2026-06-07T12:32:13 - qBittorrent v5.2.1 started. Process ID: 226
+(N) 2026-06-07T12:32:13 - Using config directory: /config/qBittorrent
+(N) 2026-06-07T12:32:14 - qBittorrent termination initiated
+(N) 2026-06-07T12:32:14 - qBittorrent is now ready to exit
+(N) 2026-06-07T12:32:15 - qBittorrent v5.2.1 started. Process ID: 234
+(N) 2026-06-07T12:32:15 - Using config directory: /config/qBittorrent
+(N) 2026-06-07T12:32:16 - qBittorrent termination initiated
+(N) 2026-06-07T12:32:16 - qBittorrent is now ready to exit
+(N) 2026-06-07T12:32:17 - qBittorrent v5.2.1 started. Process ID: 242
+(N) 2026-06-07T12:32:17 - Using config directory: /config/qBittorrent
+(N) 2026-06-07T12:32:17 - qBittorrent termination initiated
+(N) 2026-06-07T12:32:17 - qBittorrent is now ready to exit
+(N) 2026-06-07T12:32:18 - qBittorrent v5.2.1 started. Process ID: 250
+(N) 2026-06-07T12:32:18 - Using config directory: /config/qBittorrent
+(N) 2026-06-07T12:32:19 - qBittorrent termination initiated
+(N) 2026-06-07T12:32:19 - qBittorrent is now ready to exit
+(N) 2026-06-07T12:32:20 - qBittorrent v5.2.1 started. Process ID: 258
+(N) 2026-06-07T12:32:20 - Using config directory: /config/qBittorrent
+(N) 2026-06-07T12:32:20 - qBittorrent termination initiated
+(N) 2026-06-07T12:32:20 - qBittorrent is now ready to exit
+(N) 2026-06-07T12:32:22 - qBittorrent v5.2.1 started. Process ID: 266
+(N) 2026-06-07T12:32:22 - Using config directory: /config/qBittorrent
+(N) 2026-06-07T12:32:22 - qBittorrent termination initiated
+(N) 2026-06-07T12:32:22 - qBittorrent is now ready to exit
+(N) 2026-06-07T12:32:23 - qBittorrent v5.2.1 started. Process ID: 274
+(N) 2026-06-07T12:32:23 - Using config directory: /config/qBittorrent
+(N) 2026-06-07T12:32:24 - qBittorrent termination initiated
+(N) 2026-06-07T12:32:24 - qBittorrent is now ready to exit
+(N) 2026-06-07T12:32:25 - qBittorrent v5.2.1 started. Process ID: 282
+(N) 2026-06-07T12:32:25 - Using config directory: /config/qBittorrent
+(N) 2026-06-07T12:32:25 - qBittorrent termination initiated
+(N) 2026-06-07T12:32:25 - qBittorrent is now ready to exit
+(N) 2026-06-07T12:32:27 - qBittorrent v5.2.1 started. Process ID: 290
+(N) 2026-06-07T12:32:27 - Using config directory: /config/qBittorrent
+(N) 2026-06-07T12:32:27 - qBittorrent termination initiated
+(N) 2026-06-07T12:32:27 - qBittorrent is now ready to exit
+(N) 2026-06-07T12:32:28 - qBittorrent v5.2.1 started. Process ID: 303
+(N) 2026-06-07T12:32:28 - Using config directory: /config/qBittorrent
